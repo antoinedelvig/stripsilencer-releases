@@ -1,0 +1,6 @@
+{
+  "version": "0.9.18",
+  "notes": "Strip silence in Ableton Live — Split / Mute / Delete / Ripple, warp-aware.",
+  "url_macos": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v0.9.18/StripSilencer-0.9.18.pkg",
+  "url_windows": ""
+}
