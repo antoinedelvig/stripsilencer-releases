@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "notes": "Please update.",
-  "url_macos": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.1/StripSilencer-1.0.1.pkg",
-  "url_windows": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.0/StripSilencer-1.0.0-x64-setup.exe"
+    "version":  "1.0.1",
+    "notes":  "New version 1.0.1 available - please update",
+    "url_macos":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.1/StripSilencer-1.0.1.pkg",
+    "url_windows":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.1/StripSilencer-1.0.1-setup.exe"
 }
