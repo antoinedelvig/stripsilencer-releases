@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "notes": "StripSilencer now connects to Ableton for you: one click selects AntoineDelvig as Control Surface, and \"Not Connected\" shows how to fix it.",
-  "url_macos": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.5/StripSilencer-1.0.5.pkg",
+  "version": "1.0.6",
+  "notes": "Auto-connect now works with Live 11.1 and with every Live version you have installed, not only the last one you opened. Cleaner update notice.",
+  "url_macos": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer_v1.0.6_build20261101-1800.pkg",
   "url_windows": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.3/StripSilencer-1.0.3-setup.exe",
   "windows": {
     "version": "1.0.3",
@@ -9,8 +9,8 @@
     "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.3/StripSilencer-1.0.3-setup.exe"
   },
   "macos": {
-    "version": "1.0.5",
-    "notes": "StripSilencer now connects to Ableton for you: one click selects AntoineDelvig as Control Surface, and \"Not Connected\" shows how to fix it.",
-    "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.5/StripSilencer-1.0.5.pkg"
+    "version": "1.0.6",
+    "notes": "Auto-connect now works with Live 11.1 and with every Live version you have installed, not only the last one you opened. Cleaner update notice.",
+    "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer_v1.0.6_build20261101-1800.pkg"
   }
 }
