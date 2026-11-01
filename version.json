@@ -1,16 +1,16 @@
 {
-  "version": "1.0.6",
-  "notes": "Auto-connect now works with Live 11.1 and with every Live version you have installed, not only the last one you opened. Cleaner update notice.",
-  "url_macos": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer-1.0.6.pkg",
-  "url_windows": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.3/StripSilencer-1.0.3-setup.exe",
-  "windows": {
-    "version": "1.0.3",
-    "notes": "Improved remote script installer reliability",
-    "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.3/StripSilencer-1.0.3-setup.exe"
-  },
-  "macos": {
-    "version": "1.0.6",
-    "notes": "Auto-connect now works with Live 11.1 and with every Live version you have installed, not only the last one you opened. Cleaner update notice.",
-    "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer-1.0.6.pkg"
-  }
+    "version":  "1.0.6",
+    "notes":  "Auto-connect now works with Live 11.1 and with every Live version you have installed, not only the last one you opened. Cleaner update notice.",
+    "url_macos":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer-1.0.6.pkg",
+    "url_windows":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer-1.0.6-setup.exe",
+    "macos":  {
+                  "version":  "1.0.6",
+                  "notes":  "Auto-connect now works with Live 11.1 and with every Live version you have installed, not only the last one you opened. Cleaner update notice.",
+                  "url":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer-1.0.6.pkg"
+              },
+    "windows":  {
+                    "version":  "1.0.6",
+                    "notes":  "Auto-connect now works with Live 11.1 and with every Live version you have installed, not only the last one you opened. Cleaner update notice.",
+                    "url":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer-1.0.6-setup.exe"
+                }
 }
