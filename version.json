@@ -1,16 +1,16 @@
 {
-  "version": "1.0.7",
-  "notes": "Fixes a false \"Fix\" in Manage Permissions: StripSilencer no longer counts old Live versions you have not opened for 30+ days when checking the Control Surface.",
-  "url_macos": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.7/StripSilencer-1.0.7.pkg",
-  "url_windows": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer-1.0.6-setup.exe",
-  "macos": {
-    "version": "1.0.7",
-    "notes": "Fixes a false \"Fix\" in Manage Permissions: StripSilencer no longer counts old Live versions you have not opened for 30+ days when checking the Control Surface.",
-    "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.7/StripSilencer-1.0.7.pkg"
-  },
-  "windows": {
-    "version": "1.0.6",
-    "notes": "Auto-connect now works with Live 11.1 and with every Live version you have installed, not only the last one you opened. Cleaner update notice.",
-    "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.6/StripSilencer-1.0.6-setup.exe"
-  }
+    "version":  "1.0.7",
+    "notes":  "Fixes a false \"Fix\" in Manage Permissions: StripSilencer no longer counts old Live versions you have not opened for 30+ days when checking the Control Surface.",
+    "url_macos":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.7/StripSilencer-1.0.7.pkg",
+    "url_windows":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.7/StripSilencer-1.0.7-setup.exe",
+    "macos":  {
+                  "version":  "1.0.7",
+                  "notes":  "Fixes a false \"Fix\" in Manage Permissions: StripSilencer no longer counts old Live versions you have not opened for 30+ days when checking the Control Surface.",
+                  "url":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.7/StripSilencer-1.0.7.pkg"
+              },
+    "windows":  {
+                    "version":  "1.0.7",
+                    "notes":  "Fixes a false \"Fix\" in Manage Permissions: StripSilencer no longer counts old Live versions you have not opened for 30+ days when checking the Control Surface.",
+                    "url":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.7/StripSilencer-1.0.7-setup.exe"
+                }
 }
