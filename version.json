@@ -1,16 +1,16 @@
 {
-    "version":  "1.0.8",
-    "notes":  "New version 1.0.8 available - please update",
-    "url_macos":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.8/StripSilencer-1.0.8.pkg",
-    "url_windows":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.8/StripSilencer_1.0.8_x64-setup.exe",
-    "macos":  {
-                  "version":  "1.0.8",
-                  "notes":  "Important: licence server update. Install 1.0.8 to activate a licence or start a trial.",
-                  "url":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.8/StripSilencer-1.0.8.pkg"
-              },
-    "windows":  {
-                    "version":  "1.0.8",
-                    "notes":  "New version 1.0.8 available - please update",
-                    "url":  "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.8/StripSilencer_1.0.8_x64-setup.exe"
-                }
+  "version": "1.0.8",
+  "notes": "Important: licence server update. Install 1.0.8 to activate a licence or start a trial.",
+  "url_macos": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.8/StripSilencer-1.0.8.pkg",
+  "url_windows": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.8/StripSilencer_1.0.8_x64-setup.exe",
+  "macos": {
+    "version": "1.0.8",
+    "notes": "Important: licence server update. Install 1.0.8 to activate a licence or start a trial.",
+    "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.8/StripSilencer-1.0.8.pkg"
+  },
+  "windows": {
+    "version": "1.0.8",
+    "notes": "Important: licence server update. Install 1.0.8 to activate a licence or start a trial.",
+    "url": "https://github.com/antoinedelvig/stripsilencer-releases/releases/download/v1.0.8/StripSilencer_1.0.8_x64-setup.exe"
+  }
 }
